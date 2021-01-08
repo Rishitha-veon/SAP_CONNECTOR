@@ -12,6 +12,7 @@ namespace SAP_CONNECTOR
         /// The main entry point for the application.
         /// SAP Connector
         /// Sravani SAP Connector
+        ///Rishitha SAP Connector
         /// </summary>
         [STAThread]
         static void Main()
